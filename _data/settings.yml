@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: AU
-description: AU — Web developer. This website is a piece of how I do things.
+description: AU — Web developer & punk web designer.
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
 
@@ -46,7 +46,7 @@ menu_settings:
 author:
   author_name: AU
   author_role: Web Developer & Web Designer
-  author_bio: I build apps written in Ruby and JavaScript AKA <strong>web developer</strong> [@ LPB.DEV](https://piscespieces.github.io/lbp/). I'm a punk <strong>designer</strong> in Figma. I was born in <strong>Venezuela</strong>, pursued a music career while attending the law school. Left the country in 2017 due to the Venezuelan dictatorial and narco-communist government.
+  author_bio: I build apps written in Ruby and JavaScript AKA <strong>web developer</strong> <a href="https://piscespieces.github.io/lbp/">@ LPB.DEV</a>. I'm a punk <strong>designer</strong> in Figma. I was born in <strong>Venezuela</strong>, pursued a music career while attending law school. Left the country in 2017 due to the Venezuelan dictatorial and narco-communist government.
   # author_avatar: '/images/01-1.jpg'
   author_avatar: '/images/me_nyc.jpeg'
   # cta_button_text: Get In Touch
