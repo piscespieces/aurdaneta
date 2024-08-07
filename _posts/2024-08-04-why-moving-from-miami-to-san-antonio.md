@@ -18,8 +18,8 @@ After living long enough in an overpopulated and overpriced city, I know these t
 
 Facing winter might be a challenge. I’m not sure how I’ll react to it, but it can’t be that bad. I’ve survived worse…
 
-> November 28, 2018. We drove my ‘06 Mazda 3 Hatchback from the Florida Keys to Atlanta, never made it to ATL but to New York, under 30-degree Fahrenheit weather, without job, money and certainly without a single coat.
-
+> On November 28, 2018, we drove my '06 Mazda 3 Hatchback from the Florida Keys to Atlanta. However, we never made it to ATL and ended up in New York instead, facing sub-30-degree Fahrenheit weather without a job, money, or even a single coat.
+ 
 Locals complain about San Antonio’s traffic, and it is bad indeed. But it isn’t as bad as Miami’s traffic, so I feel I’ve won something there as well.
 
 There’s also Austin’s proximity—just one hour and thirty minutes away from San Antonio.
