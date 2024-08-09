@@ -15,6 +15,8 @@ $global-transition: all .25s;
 // *****************
 // Typography
 // *****************
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Dela+Gothic+One&display=swap');
+
 $base-font-size: 16px;
 $base-font-style: normal;
 $base-font-variant: normal;
@@ -25,7 +27,6 @@ $base-line-height: 1.6;
 // Headings
 $heading-font-weight: 700;
 $heading-font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
-
 $font-size-h1: 36px;
 $font-size-h2: 28px;
 $font-size-h3: 24px;
