@@ -28,7 +28,7 @@ page_cover: '/images/100.jpg'
             {% endif %}
           </div>
           {% if project.image %}
-          <a href="{{ project.url | relative_url }}" class="project__image">
+          <a href="{{ project.link_to_project }}" class="project__image">
             <img class="lazy" data-src="{{ project.image | relative_url }}" alt="{{ project.title }}">
           </a>
           {% endif %}
