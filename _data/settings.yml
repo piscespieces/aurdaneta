@@ -24,12 +24,12 @@ menu_settings:
   menu_items:
     - title: '🏠 Home'
       url: '/'
-    - title: 'Now'
-      url: '/now/'
-    - title: '✍️ Blog'
-      url: '/blog/'
-    # - title: '🚀 Projects'
-      # url: '/projects/'
+    # - title: 'Now'
+    #   url: '/now/'
+    # - title: '✍️ Blog'
+    #   url: '/blog/'
+    - title: '🚀 Projects'
+      url: '/projects/'
 #    - title: '🎬 Videos'
 #      url: '/videos/'
     # - title: '👨🏻‍💻 About'
@@ -46,7 +46,7 @@ menu_settings:
 author:
   author_name: AU
   author_role: Web Developer & Web Designer
-  author_bio: I build apps written in Ruby and JavaScript AKA <strong>web developer</strong> <a href="https://piscespieces.github.io/lbp/">@ LPB.DEV</a>. I'm a punk <strong>designer</strong> in Figma. I was born in <strong>Venezuela</strong>, pursued a music career while attending law school. Left the country in 2017 due to the Venezuelan dictatorial and narco-communist government.
+  author_bio: I build apps written in HTML, CSS, JavaScript and Ruby. I have a keen eye for design and greatly value great UXUI in the web. I'm from Venezuela, but I've been based in the US for 8+ years. Currently located in San Antonio, TX.
   # author_avatar: '/images/01-1.jpg'
   author_avatar: '/images/me_nyc.jpeg'
   # cta_button_text: Get In Touch

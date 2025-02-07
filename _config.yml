@@ -28,15 +28,15 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug
-  videos:
-    output: false
-    permalink: /videos/:slug
-  gallery:
-    output: true
-    permalink: /gallery/:slug
-  nows:
-    output: true
-    permalink: /now/:slug
+  # videos:
+  #   output: false
+  #   permalink: /videos/:slug
+  # gallery:
+  #   output: true
+  #   permalink: /gallery/:slug
+  # nows:
+  #   output: true
+  #   permalink: /now/:slug
 
 # Pages Path
 defaults:

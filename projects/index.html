@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🚀 Portfolio
-description: Mobile development is a dynamic and ever-evolving field, and staying ahead of the curve is essential. These simplified visual representations enable developers to iterate quickly, experiment with different layouts, and validate their ideas before investing time and resources into the actual coding process.
+description: These are some of the various full-stack projects I've worked over the years. Featuring responsive frontends, great backends, and innovative e-commerce solutions. Each project required a different approach, integrations, and solutions. My work reflects modern digital standards and a commitment to delivering great UX.
 page_cover: '/images/100.jpg'
 ---
 
@@ -21,7 +21,8 @@ page_cover: '/images/100.jpg'
       <article class="project col col-6 col-t-12 animate">
         <div class="project__content">
           <div class="project__info">
-            <h3 class="project__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+            <!-- <h3 class="project__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3> -->
+            <h3 class="project__title"><a href="{{ project.link_to_project }}" target="_blank">{{ project.title }}</a></h3>
             {% if project.description %}
             <div class="project__description">{{ project.description }}</div>
             {% endif %}
