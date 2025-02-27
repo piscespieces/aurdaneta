@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: AU
-description: AU — Web developer & punk web designer.
+description: AU — Full Stack Web Developer & Punk Web Designer.
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
 
@@ -45,8 +45,8 @@ menu_settings:
 # Author Settings
 author:
   author_name: AU
-  author_role: Web Developer & Web Designer
-  author_bio: I build apps written in HTML, CSS, JavaScript and Ruby. I have a keen eye for design and greatly value great UXUI in the web. I'm from Venezuela, but I've been based in the US for 8+ years. Currently located in San Antonio, TX.
+  author_role:  Full Stack Developer & Punk WebDesigner
+  author_bio: I build full stack web apps and lately I've been building AI agents with Python & LangChain. I'm from Venezuela, but I've been based in the US for 8+ years. Currently located in San Antonio, TX.
   # author_avatar: '/images/01-1.jpg'
   author_avatar: '/images/me_nyc.jpeg'
   # cta_button_text: Get In Touch
