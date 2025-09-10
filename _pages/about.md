@@ -1,26 +1,22 @@
 ---
 layout: page
 title: 👨🏻‍💻 About
-description: Solo Martian (Andres Urdaneta) is a highly skilled web developer with years of industry experience. His creative journey began with a obsession for music, art and technology, and he has since honed his skills to become a versatile entrepreneur who knows how to craft plans, narratives, designs, software and distribution to bring any idea, into reality.
+description: Hola 👋🏼, soy Andres. He estado haciendo aplicaciones de software desde 2019 y me especializo en crear aplicaciones full-stack con Ruby on Rails.
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/me_nyc.jpeg'
 # image: '/images/me.jpeg'
 page_cover: '/images/01.jpg'
 ---
 
-Dave believes that great design goes beyond aesthetics – it should tell a story, evoke emotions, and drive meaningful user interactions.
+Comencé a programar porque quería construir el mejor website posible para mis clases de guitarra como tutor. Los "page builders" que habían disponibles tenían muchas limitaciones. Entonces, compré un curso de programación en Udemy y aprendí HTML, CSS y JavaScript por mi cuenta.
 
-Browse through Dave's portfolio to see his impressive body of work. From sleek corporate websites to vibrant e-commerce platforms and immersive landing pages, each project showcases Dave's ability to translate ideas into impactful visual experiences. Get inspired by his use of color palettes, typography, and innovative design elements that push the boundaries of creativity.
+Me encantó codear! Desde entonces, he trabajado para agencias de software y startups en Miami. Ahora, trabajo independiente construyendo aplicaciones web con Ruby on Rails (mi framework preferido para hacer software).
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
-    <img src="/images/01-3.jpg" loading="lazy">
-    <img src="/images/01-4.jpg" loading="lazy">
-    <img src="/images/01-5.jpg" loading="lazy">
+    <img src="/images/headshot.png" loading="lazy">
+    <img src="/images/guitar.png" loading="lazy">
+    <img src="/images/horizontal_test.jpeg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Gallery / <a href="https://aurdaneta.com/" target="_blank">aurdaneta.com</a></em>
 </div>
-
-Ready to take your web design project to the next level? Contact Dave to discuss your requirements, explore design possibilities, and discover how his expertise can enhance your online presence. Dave is excited to collaborate with you and create visually stunning designs that make a lasting impact.
-
-Don't forget to connect with Dave on social media to stay updated on his latest projects, design insights, and industry trends. Follow him on Twitter, Instagram, and LinkedIn for a glimpse into his creative process and a dose of design inspiration.

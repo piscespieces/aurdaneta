@@ -160,8 +160,3 @@ With just a few lines of code, we structured an unorganized conversation into cl
 This setup can serve as the foundation for automating customer insights, building smarter chatbots, or even integrating AI-driven analytics into your workflow.
 
 Try tweaking the classification schema, adding more categories, or even chaining multiple prompts together, and have fun!
-
-
-<hr/>
-
-> If you have any questions or would like to connect, hit me up on [X](https://x.com/__andresu__) or [LinkedIn](https://www.linkedin.com/in/andres-urd/)
