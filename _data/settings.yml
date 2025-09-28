@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: AU
-description: AU — Full Stack Web Developer & Punk Web Designer.
+title: Andres Urdaneta
+description: Full Stack Web Developer & AI Engineer
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
 
@@ -28,12 +28,12 @@ menu_settings:
     #   url: '/now/'
     # - title: '✍️ Blog'
     #   url: '/blog/'
+    - title: '👨🏻‍💻 About'
+      url: '/about/'
     - title: '🚀 Projects'
       url: '/projects/'
 #    - title: '🎬 Videos'
 #      url: '/videos/'
-    - title: '👨🏻‍💻 About'
-      url: '/about/'
 #    - title: '📷 Gallery'
 #      url: '/gallery/'
 
@@ -44,9 +44,9 @@ menu_settings:
 #-------------------------------
 # Author Settings
 author:
-  author_name: AU
-  author_role:  Desarrollador de Software Full Stack
-  author_bio: Construyo aplicaciones web full-stack con integraciones de IA utilizando los modelos de OpenAI, Anthropic y Gemini. Soy de Venezuela, y actualmente vivo en San Antonio, TX. También toco guitarra y soy melómano.
+  author_name: Andres Urdaneta
+  author_role: Full Stack Web Developer & AI Engineer
+  author_bio: Construyo aplicaciones web full-stack con integraciones de IA utilizando los modelos de OpenAI, Anthropic y Gemini. Toco guitarra electrica, y soy melómano.
   # author_avatar: '/images/01-1.jpg'
   author_avatar: '/images/me_nyc.jpeg'
   cta_button_text: Contáctame
